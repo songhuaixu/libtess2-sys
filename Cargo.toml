@@ -1,7 +1,13 @@
 [package]
 name = "libtess2-sys"
 version = "0.1.0"
+authors = ["songhuaixu <songhuaixu@gmail.com>"]
 edition = "2021"
+license = "ISC"
+readme = "README.md"
+repository = "https://github.com/songhuaixu/libtess2-sys"
+description = "good quality polygon tesselator and triangulator (libtess2 wrapper)"
+keywords = ["libtess2", "tesselator", "triangulator"]
 categories = ["algorithms", "external-ffi-bindings"]
 
 [features]

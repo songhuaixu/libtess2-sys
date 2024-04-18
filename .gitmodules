@@ -1,0 +1,3 @@
+[submodule "libtess2"]
+	path = libtess2
+	url = https://flutter.googlesource.com/third_party/libtess2/
