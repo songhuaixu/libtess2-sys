@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "tesselator.h": "c"
+    },
+    "cSpell.words": [
+        "libtess"
+    ]
+}

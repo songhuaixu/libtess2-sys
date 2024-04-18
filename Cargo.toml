@@ -1,0 +1,14 @@
+[package]
+name = "libtess2-sys"
+version = "0.1.0"
+edition = "2021"
+categories = ["algorithms", "external-ffi-bindings"]
+
+[features]
+generate-bindings = ["bindgen"]
+update-bindings = ["generate-bindings"]
+
+
+[build-dependencies]
+bindgen = { version = "0.69.4", optional = true }
+cc = "1.0.94"
